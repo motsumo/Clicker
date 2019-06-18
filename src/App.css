@@ -1,0 +1,70 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  margin: 0 auto;
+  box-sizing: border-box;
+  font-size: 0px;
+  text-align: center;
+}
+
+.number {
+  padding: 100px;
+  font-size: 100px;
+  border: 1px solid #000;
+  background-color: rgb(243, 242, 242);
+}
+
+.buttons {
+  margin: 0 auto;
+  box-sizing: border-box;
+  font-size: 0px;
+  text-align: center;
+}
+
+.buttons>button {
+  font-size: 50px;
+  width: 33.3%;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: middle;
+  border: 1px solid #000;
+  height: 10%;
+  padding: 0 15px;
+}
+
+.clickers {
+  font-size: 50px;
+  width: 50%;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: middle;
+
+}
+
+
+.fas {
+  padding: 15px
+}
+
+.plus {
+  background-color: green;
+  color: #fff;
+}
+
+.refresh {
+  background-color: yellow;
+  color: #000;
+}
+
+.minus {
+  background-color: red;
+  color: #fff;
+}
+
+.supper-button {
+  width: 100px;
+  height: 100px;
+}
